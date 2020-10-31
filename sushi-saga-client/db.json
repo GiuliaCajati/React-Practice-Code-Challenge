@@ -1,5 +1,4 @@
-{
-  "sushis": [
+{"sushis": [
     {
       "id": 1,
       "name": "Maguro Magic",
@@ -702,3 +701,4 @@
     }
   ]
 }
+
